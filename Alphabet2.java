@@ -14,8 +14,8 @@ class Alphabet2
     }
 
     public final int LENGTE_ALPHABET = 26;
-    public final int CODE_A = 97;
-    public final int CODE_Z = 122;
+    public final int CODE_A = 'a';
+    public final int CODE_Z = 'z';
 
     void start()
     {

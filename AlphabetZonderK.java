@@ -15,9 +15,9 @@ class AlphabetZonderK
 
 
     public final int LENGTE_ALPHABET = 26;
-    public final int CODE_A = 97;
-    public final int CODE_Z = 122;
-    public final int CODE_K = 107;
+    public final int CODE_A = 'a';
+    public final int CODE_Z = 'z';
+    public final int CODE_K = 'k';
 
     void start() {
 

@@ -1,6 +1,6 @@
 LENGTE_ALPHABET = 26
-CODE_A = 97
-CODE_Z = 122
+CODE_A = ord('a')
+CODE_Z = ord('z')
 
 # print een alphabet op 1 regel
 
